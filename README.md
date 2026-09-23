@@ -1,4 +1,4 @@
-<a href="https://youtu.be/_PtVROzu3_w"><img src="assets/video-walkthrough.svg" alt="Watch the video walkthrough on YouTube" width="100%"></a>
+<a href="https://youtu.be/_PtVROzu3_w"><img src="https://i.ytimg.com/vi/_PtVROzu3_w/maxresdefault.jpg" alt="Build a $10K Website With Claude Opus 5.5: watch the video walkthrough on YouTube" width="100%"></a>
 
 **[▶ Watch the full video walkthrough on YouTube](https://youtu.be/_PtVROzu3_w)**
 
