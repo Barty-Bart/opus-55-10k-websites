@@ -1,6 +1,6 @@
-<img src="assets/tutorial-placeholder.svg" alt="Video tutorial coming soon" width="100%">
+<a href="https://youtu.be/_PtVROzu3_w"><img src="assets/video-walkthrough.svg" alt="Watch the video walkthrough on YouTube" width="100%"></a>
 
-**Video walkthrough coming soon**
+**[▶ Watch the full video walkthrough on YouTube](https://youtu.be/_PtVROzu3_w)**
 
 # Claude Opus 5.5 · 10K Websites — Drone Fly-Through
 
